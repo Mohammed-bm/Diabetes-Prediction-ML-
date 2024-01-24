@@ -1,4 +1,4 @@
-numpy==1.21.4
+numpy==1.26.3
 pickle-mixin==1.0.2
-streamlit==1.2.0
-scikit-learn==1.0.1
+streamlit==1.29.0
+scikit-learn==1.4.0
